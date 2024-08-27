@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(20, 20, 20);
+}
+body{
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,54 @@
+.home{
+    display: flex;
+    justify-content: center;
+    flex:1;
+    align-items: center;
+}
+  
+.container{
+    width: 100%;
+    flex-basis: 50%;
+    flex-grow: 1;
+    align-items: center;
+    padding-left: 160px;
+}
+  
+h2 {
+    color: black;
+    font-family: pacifico;
+    font-size: 30px;
+}
+  
+.container h1 {
+    color: green;
+    font-family: pacifico;
+    font-size: 50px;
+}
+  
+.container p{
+    color: black;
+}
+  
+.container img{
+    width: 300px;
+    height: 400px;
+    border-radius: 20%;
+    border: 2px solid green;
+}
+  
+.container img{
+    margin-left: 5px 10px;
+}
+  
+/*table*/
+.table1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border-collapse: collapse;
+    margin: 0px;
+}
+  
+.table1 ,th ,td{
+    border: 1px solid green;
+    padding: 8px 80px;
+}
